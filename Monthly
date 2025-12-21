@@ -25,7 +25,7 @@ return {
 
     ["QCwvUcCkysTcuoDyZDsv"] = { Enabled = true,  Reason = "Active" },
     ["MSytLmQcoPOgBiQaDmFK"] = { Enabled = true,  Reason = "Active" },
-    ["UPInaaDgJXJneSJXjEPv"] = { Enabled = true,  Reason = "Active" },
+    ["UPInaaDgJXJneSJXjEPv"] = { Enabled = false,  Reason = "Tesss" },
     ["bcDCyPGqgcjMomEJvCRU"] = { Enabled = true,  Reason = "Active" },
     ["DlVuFptKdQodPwJlMEqk"] = { Enabled = true,  Reason = "Active" },
     ["QYrjPRwUdLSJQCgjoBtd"] = { Enabled = true,  Reason = "Active" },
