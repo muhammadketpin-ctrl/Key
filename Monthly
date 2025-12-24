@@ -33,5 +33,5 @@ return {
     ["Monthly_LXInIg3Nt4zkNAfaks"] = { Enabled = true,  Reason = "Active" },
     ["Monthly_a215Y7kX1MPYwtj2rD"] = { Enabled = true,  Reason = "Active" },
     ["Monthly_2g9gzGTeR99h85tCUQ"] = { Enabled = true,  Reason = "Active" },
-    ["17/1/2026"] = { Enabled = false,  Reason = "Exposed Key\n key sementara di disable" }
+    ["17/1/2026"] = { Enabled = true,  Reason = "Exposed Key\n key sementara di disable" }
 }
