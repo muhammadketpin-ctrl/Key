@@ -1,7 +1,4 @@
 return {
-    ["Monthly_Csi529VnwoRfwj53196Fd62"] = { Enabled = true,  Reason = "Active", Expired = 100 },
-    ["Yanz_Tu2902CwvieTe81yBebap"] = { Enabled = true,  Reason = "Active" },
-    ["Monthly_913BmLpu19Fair9103Fwri"] = { Enabled = true,  Reason = "Active" },
     ["Monthly_752FUYT572gRh387ahBG7"] = { Enabled = true,  Reason = "Active" },
     ["Monthly_Z1p9Rk7Q3LmT82xC3Xd"] = { Enabled = true,  Reason = "Active" },
     ["Monthly_4QaN8vD1SgE5P0KuJ82"] = { Enabled = true,  Reason = "Active" },
