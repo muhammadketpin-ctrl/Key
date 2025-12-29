@@ -31,7 +31,7 @@ return {
     ["Monthly_sgHUj5Qrxi0KDOtX"] = { Enabled = true, Reason = "Active" },
     ["Monthly_SvMCtIPfE1qBSMxt"] = { Enabled = true, Reason = "Active" },
     ["Monthly_GyCWJ6yeCaBoe6Rk"] = { Enabled = true, Reason = "Active" },
-    ["Monthly_s2t2WJsKS3oQUzxQ"] = { Enabled = false, Reason = "Monthly Access disabled\n run more than 1 accounts" },
+    ["Monthly_s2t2WJsKS3oQUzxQ"] = { Enabled = true, Reason = "Monthly Access disabled\n run more than 1 accounts" },
     ["Monthly_lx7sVQuT5Qrkxo7m"] = { Enabled = true, Reason = "Active" },
     ["Monthly_P7u0nIRkAyu9BvjN"] = { Enabled = true, Reason = "Active" },
     ["Monthly_EEzeZQ7wJf4eyRdS"] = { Enabled = true, Reason = "Active" },
