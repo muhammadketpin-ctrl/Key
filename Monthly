@@ -39,5 +39,7 @@ return {
     ["Monthly_3c5o1YNw1TFwypwa"] = { Enabled = true, Reason = "Active" },
     ["Monthly_j6XmTlXzeM6JTUWv"] = { Enabled = true, Reason = "Active" },
     ["Monthly_yWLau7kyNHrJf709"] = { Enabled = true, Reason = "Active" },
-    ["Monthly_E2hGwQ79cds6oPo2"] = { Enabled = true, Reason = "Active" }
+    ["Monthly_E2hGwQ79cds6oPo2"] = { Enabled = true, Reason = "Active" },
+    ["Monthly_AdoYzYR6xxTkik0Z"] = { Enabled = true, Reason = "Active" },
+    
 }
