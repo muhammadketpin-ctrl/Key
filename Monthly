@@ -48,5 +48,13 @@ return {
     ["Monthly_QpVpeI6NBi9FVa7L"] = { Enabled = true, Reason = "Active" },
     ["Monthly_CZe3Kn9FcRGRZLJC"] = { Enabled = true, Reason = "Active" },
     ["Monthly_XJRJoquPMMoCDzIp"] = { Enabled = true, Reason = "Active" },
-    ["Monthly_4STRhQaucW75EC6b"] = { Enabled = true, Reason = "Active" }
+    ["Monthly_4STRhQaucW75EC6b"] = { Enabled = true, Reason = "Active" },
+    ["Monthly_YVhCo92SGaZ7QbkM"] = { Enabled = true, Reason = "Active" },
+    ["Monthly_3ELjiqOGUdBX8Arm"] = { Enabled = true, Reason = "Active" },
+    ["Monthly_HAOYaMa4vv6WBAbn"] = { Enabled = true, Reason = "Active" },
+    ["Monthly_qHKUXmUrCXPOmFoT"] = { Enabled = true, Reason = "Active" },
+    ["Monthly_tNHDckV0vJBfd23X"] = { Enabled = true, Reason = "Active" },
+    ["Monthly_VDAqOs1stbhjJ9zv"] = { Enabled = true, Reason = "Active" },
+    ["Monthly_nasWsjrwQEkKwtsm"] = { Enabled = true, Reason = "Active" },
+    ["Monthly_XStko1qotih9jLCa"] = { Enabled = true, Reason = "Active" }
 }
