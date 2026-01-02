@@ -1,5 +1,4 @@
 return {
-    ["Monthly_K5uL7Jq9RbP2Cz8NZx3"] = { Enabled = true,  Reason = "Active" },
     ["Monthly_MqWeNbRbALhgFrCzXWT"] = { Enabled = true,  Reason = "Active" },
     ["Monthly_WzMjFtseAdXvBhyoC62"] = { Enabled = true,  Reason = "Active" },
     ["Monthly_XyIfWLaFcIqGqPTuVkG"] = { Enabled = true,  Reason = "Active" },
