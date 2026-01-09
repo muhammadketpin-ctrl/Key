@@ -52,5 +52,6 @@ return {
     ["Monthly_CE5k30UWyvbZch8v"] = { Enabled = true, Reason = "Active" },
     ["Monthly_0mtsONj95mk4KFhO"] = { Enabled = true, Reason = "Active" },
     ["Monthly_dVBJ1ssl5WSyEISP"] = { Enabled = true, Reason = "Active" },
-    ["Monthly_gMZVTHIjLyqu7YVW"] = { Enabled = true, Reason = "Active" }
+    ["Monthly_gMZVTHIjLyqu7YVW"] = { Enabled = true, Reason = "Active" },
+    ["Monthly_PXRVheWzJhZ6DYPH"] = { Enabled = true, Reason = "Active" }
 }
