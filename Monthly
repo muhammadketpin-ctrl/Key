@@ -1,6 +1,4 @@
 return {
-    ["UPInaaDgJXJneSJXjEPv"] = { Enabled = true,  Reason = "Tesss" },
-    ["bcDCyPGqgcjMomEJvCRU"] = { Enabled = true,  Reason = "Active" },
     ["DlVuFptKdQodPwJlMEqk"] = { Enabled = true,  Reason = "Active" },
     ["QYrjPRwUdLSJQCgjoBtd"] = { Enabled = true,  Reason = "Active" },
 
