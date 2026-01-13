@@ -1,8 +1,5 @@
 return {
-    ["DlVuFptKdQodPwJlMEqk"] = { Enabled = true,  Reason = "Active" },
-    ["QYrjPRwUdLSJQCgjoBtd"] = { Enabled = true,  Reason = "Active" },
-
-    ["Monthly_lowSGFZuPeEdNkPptRVT"] = { Enabled = true,  Reason = "Active" },
+    ["Monthly_yICkeVbMxJukXcaOheL"] = { Enabled = true,  Reason = "Active" },
     ["Monthly_bIRQCLexNWBdVeNYRYAR"] = { Enabled = true,  Reason = "Active" },
     ["Monthly_tbexDvGWNFDubUzLLRJR"] = { Enabled = true,  Reason = "Active" },
     ["Monthly_tNLHwbWqbGLJLTHjYSUi"] = { Enabled = true,  Reason = "Active" },
