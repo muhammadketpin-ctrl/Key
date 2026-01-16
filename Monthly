@@ -1,11 +1,6 @@
 return {
     ["Monthly_yICkeVbMxJukXcaOheL"] = { Enabled = true,  Reason = "Active" },
-    ["Monthly_bIRQCLexNWBdVeNYRYAR"] = { Enabled = true,  Reason = "Active" },
-    ["Monthly_tbexDvGWNFDubUzLLRJR"] = { Enabled = true,  Reason = "Active" },
-    ["Monthly_tNLHwbWqbGLJLTHjYSUi"] = { Enabled = true,  Reason = "Active" },
-    ["Monthly_PbHLGhHRmgEFblAWBrGc"] = { Enabled = true,  Reason = "Active" },
 
-    ["Monthly_29bN6M1fp3DcwwYV7B"] = { Enabled = true,  Reason = "Active" },
     ["Monthly_oE90p51Dn0K6b9L4cT"] = { Enabled = true,  Reason = "Active" },
     ["Monthly_LXInIg3Nt4zkNAfaks"] = { Enabled = true,  Reason = "Active" },
     ["Monthly_a215Y7kX1MPYwtj2rD"] = { Enabled = true,  Reason = "Active" },
