@@ -1,12 +1,6 @@
 return {
     ["Monthly_yICkeVbMxJukXcaOheL"] = { Enabled = true,  Reason = "Active" },
 
-    ["Monthly_oE90p51Dn0K6b9L4cT"] = { Enabled = true,  Reason = "Active" },
-    ["Monthly_LXInIg3Nt4zkNAfaks"] = { Enabled = true,  Reason = "Active" },
-    ["Monthly_a215Y7kX1MPYwtj2rD"] = { Enabled = true,  Reason = "Active" },
-    ["Monthly_2g9gzGTeR99h85tCUQ"] = { Enabled = true,  Reason = "Active" },
-    ["17/1/2026"] = { Enabled = true,  Reason = "Exposed Key\n key sementara di disable" },
-    ["Monthly_sgHUj5Qrxi0KDOtX"] = { Enabled = true, Reason = "Active" },
     ["Monthly_SvMCtIPfE1qBSMxt"] = { Enabled = true, Reason = "Active" },
     ["Monthly_GyCWJ6yeCaBoe6Rk"] = { Enabled = true, Reason = "Active" },
     ["Monthly_s2t2WJsKS3oQUzxQ"] = { Enabled = true, Reason = "Monthly Access disabled\n run more than 1 accounts" },
